@@ -1,7 +1,7 @@
 --Use ReduxLoader interface if mod is present
 function init_supported_loaders()
-	remote.call("loader-redux", "add_loader", "loader-5")
-	remote.call("loader-redux", "add_loader", "loader-4")
+	remote.call("loader-redux", "add_loader", "5d-loader-5")
+	remote.call("loader-redux", "add_loader", "5d-loader-4")
 	remote.call("loader-redux", "add_loader", "express-loader")
 	remote.call("loader-redux", "add_loader", "fast-loader")
 	remote.call("loader-redux", "add_loader", "loader")
