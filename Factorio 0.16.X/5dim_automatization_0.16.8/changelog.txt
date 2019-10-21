@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.16.4
+Date: 06/01/2018
+  News:
+    - Added changelog.txt.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 23/01/2018
+  News:
+    - Adjusted chemical-plant mk2/3 collision to match balance changes.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+Date: 22/02/2018
+  News:
+    - Added description.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+Date: 12/08/2018
+  News:
+    - Loaders appear in the logistic-network request filter.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.7
+Date: 06/01/2019
+  News:
+    - Loaders can un-/load trains if Redux-Loaders mod is present too. It has to be enabled in mod-settings! 
+	- Attention the first 3 stages of loaders will be affected by Redux-Loaders and their prices will raise!
